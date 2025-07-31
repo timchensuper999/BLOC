@@ -1,4 +1,4 @@
-# BLOC-kit
+# BLO
 
 **“Beliefs are not stored. They are clustered.”**
 
